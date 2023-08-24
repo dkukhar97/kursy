@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.p1 {
+    margin: 20px 20px 20px;
+    border: 2px solid blue;
+}
+.div1 {
+    margin: 40px;
+    padding: 20px;
+     /*border:dashed 10; */
+     border: 2px solid blue;
+     border-radius: 50px;
+
+}
+.cicle {
+    width:100px ;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 50px;
+}
+
+.el {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+
+
+    border: 2px dotted red;
+}
+
+.el2 {
+    border: 2px dashed silver;
+    margin: 15px 20px;
+    /*padding: 15px 20px;*/
+   /* padding: 10px 20px 20px 30px; */
+   padding: 10px 20px 30px;
+
+}
+
+.list {
+    list-style-position: inside;
+    list-style: square;
+     
+}
+

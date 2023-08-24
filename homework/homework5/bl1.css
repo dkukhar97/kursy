@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .wrapper {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .block {
+    width: 150px;
+    height: 100px;
+    background-color: gold;
+    overflow: visible;
+  }
+  
+  .block.one {
+    overflow: hidden;
+  }
+  
+  .block.two {
+    overflow: scroll;
+  }

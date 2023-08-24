@@ -1,0 +1,28 @@
+img{
+    margin-bottom:-3%;
+    border-radius:20px; 
+    margin-bottom: 10px;
+  }
+  .audio1 {
+    width: 300px;
+    margin: 0.5px;
+    background: #fd0; 
+    padding: 10px;
+    border-radius: 50px;
+  }
+  
+  .video1 {
+    width: 300px;
+    margin: 0.5px;
+    background: #fd0; 
+    padding: 10px;
+    border-radius: 50px;
+  }
+  .photo1 {
+    width: 300px;
+    margin: 0.5px;
+    background: #fd0; 
+    padding: 10px;
+    border-radius: 50px;
+  }
+  

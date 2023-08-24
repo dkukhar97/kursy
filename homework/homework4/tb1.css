@@ -1,0 +1,80 @@
+table,th,td{
+    border: 1px solid grey;
+    text-align:center;
+  } 
+  
+  th,td{
+     padding:10px;
+  }
+  caption{
+    font-size:20px;
+    background-color:rgb(230, 242, 177);
+    border-radius: 50px;
+  }
+  
+  .tb2{
+    position: absolute;
+    left: 0px;
+    top: 50px;
+  }
+  .tb1 {
+   position: absolute;
+   left: 300px;
+   top: 50px;
+  }
+  .tb3 {
+    position: absolute;
+    left: 600px;
+    top: 50px;
+  }
+  :root {
+    background-color: rgb(235, 241, 224);
+  }
+:active {
+    background-color: rgb(249, 246, 246);
+}
+td * {
+    background-color: rgb(253, 252, 252);
+}
+a:link {
+    background-color: rgb(249, 246, 249);
+
+}
+::first-line {
+    background-color: rgb(248, 246, 249);
+}
+p::before { 
+border-radius: 50px;
+background-color: rgb(170, 214, 99);
+    content: "Прочитай це: ";
+   
+}
+input:read-write { 
+
+
+    background-color: rgb(255, 119, 0);
+
+
+}
+input:required { 
+
+
+    background-color: white;
+
+
+}
+a:visited { 
+
+
+    color: pink;
+}
+:target {
+
+
+    border: 2px solid #D4D4D4;
+
+
+    background-color: #e5eecc;
+
+
+}

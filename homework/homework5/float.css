@@ -1,0 +1,19 @@
+
+.none {
+       float: none;
+
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.p1 {
+    color: black;
+    padding-left: 0.5cm;
+    padding-right: 12.5cm;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    font: bold 18px/1.45 italic ;
+}

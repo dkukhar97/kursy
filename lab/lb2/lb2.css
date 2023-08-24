@@ -1,0 +1,29 @@
+.or1 {
+    background-color: orange;
+    grid-column-start: 1;
+    grid-column-end: 5;
+
+}
+.or2 {
+    background-color: orange;
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.black {
+    background-color: black;
+}
+ .main {
+    height: 500px;
+    width: 1000px;
+    display: grid;
+    grid-template: 100px 500px 100px / repeat(4, 1fr);
+ }

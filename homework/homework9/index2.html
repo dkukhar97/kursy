@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <form class="form1">
+        <div>
+ 
+            <p>Тип продукту:</p>  
+            <select class="kv" multiple="multiple" name="type">
+            <option disabled="disabled" selected="selected">Телефон</option>
+            <option value = "Програміст">Ноутбук</option>
+            <option value = "Системний аміністратор">Пилосос</option>
+            <option value = "Маркетолог">Зарядка</option>
+            </select>
+            </div>
+            <br>
+            <label for="power">Потужність:</label><br>
+            15w<input type="checkbox" name="power">
+            25w<input type="checkbox" name="power">
+            65w<input type="checkbox" name="power">
+            100w<input type="checkbox" name="power">
+            200w<input type="checkbox" name="power"><br>
+            <label for="mark">Марка:</label><br>
+            Samsung<input type="checkbox" name="mark">
+            LG<input type="checkbox" name="mark">
+            Asus<input type="checkbox" name="mark">
+            Lenovo<input type="checkbox" name="mark"><br>
+            <input type="text" name="Сортування:" id="typee" list="type" />
+            <datalist id="type">
+    <option>Від дешевших</option>
+    <option>Від дорожчих</option>
+    <option>По рейтингу</option>
+
+            </datalist><br>
+            <label for="">Назва моделі</label><br>
+            <input type="text"><br>
+            <label for="submit"></label><br>
+            <input type="submit" value="Вибрати"><br>
+            
+    </form>
+</body>
+</html>

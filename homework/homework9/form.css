@@ -1,0 +1,23 @@
+.kv {
+    width: 150px;
+    height: 50px;
+}
+.form1 {
+    background-color:powderblue;
+    width: 50%;
+    height: 700px;
+    border: 25px;
+    
+    
+    
+}
+option{
+    background-color:gold;
+}
+input {
+    background-color: aquamarine;
+}
+textarea {
+    background-color: aquamarine;
+}
+

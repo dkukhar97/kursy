@@ -1,0 +1,186 @@
+body {
+    width: max-content;
+    height: max-content;
+    border: 2px solid red;
+}
+div {
+   
+    text-align: center;
+    font-family: monospace;
+    border: 1px solid red;
+    background-color:white;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 0px;
+    position: relative;
+  }
+  .dv1 {
+    border: 2px solid black;
+    height: 100px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 1200px;
+    min-width: 340px;
+  }
+  
+  .fleft { 
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+    margin-left: 50px;
+    
+  }
+  
+  .fleft1 { 
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fleft2 {
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fcent {
+    float:left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fcent1 {
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fcent2 {
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fcent3 {
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+  }
+  .fdiv {
+    border: 2px solid black;
+    height: 100px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 1200px;
+    min-width: 340px;
+  }
+  .fleft11 { 
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+    margin-left: 170px;
+    
+  }
+  
+  .fleft12 { 
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+    margin-left: 170px;
+  }
+  .fleft13 {
+    float: left;
+    width: 110px;
+    height: 70px;
+    margin-top: 14px;
+    margin-left: 170px;
+  }
+  .fdiv1 {
+    border: 2px solid black;
+    height: 500px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: grid;
+    grid-template: 70px 250px 70px / repeat(3, 1fr);
+    max-width: 1200px;
+    min-width: 340px;
+  }
+  .fleft111 {
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-top: 0px;
+    margin-left: 0px;
+    grid-column: 1;
+  }
+  .fleft121 {
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-top: 0px;
+    margin-left: 0px;
+    grid-column: 2; 
+  }
+  .fnav {
+    border: 2px solid black;
+    height: 300px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 1200px;
+    min-width: 340px;
+  }
+  .fleft1111 { 
+    float: left;
+    width: 332px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+  }
+  
+  .fleft1211 { 
+    float: left;
+    width: 332px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .fleft1311 {
+    float: left;
+    width: 332px;
+    height: 300px;
+    margin-top: 0%;
+    margin-left: 0px;
+  }
+  .foot {
+    border: 2px solid black;
+    height: 200px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 1200px;
+    min-width: 340px;
+  }
+  .foot1 {
+    float: left;
+    width: 1000px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 0px;
+
+  }
+
+  

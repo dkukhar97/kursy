@@ -1,0 +1,205 @@
+
+
+.head {
+    background-color: palevioletred;
+    height: 200px;
+    width: 1000px;
+    display: grid;
+    grid-template: 70px 250px 70px / repeat(3, 1fr);
+    text-align:center;
+    border: 1px solid red;
+
+    
+}
+.white {
+    background-color: white;
+    grid-column: 2;
+    margin: 30px 10px 10px 10px;
+    height: 140px;
+    width: 720px;
+    
+}
+.black {
+    background-color: black;
+    grid-column: 1;
+    margin: 25px auto 25px;
+    height: 90px;
+    width: 450px;
+
+}
+.sil1 {
+    background-color: silver;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    text-align: center;
+    
+
+}
+.sil2 {
+    background-color: silver;
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.aqua {
+    background-color: aqua;
+}
+.yellow {
+    background-color: yellow;
+}
+ .main {
+    height: 500px;
+    width: 1000px;
+    display: grid;
+    grid-template: 70px 150px 70px / repeat(4, 1fr);
+    border: 1px solid red;
+    
+ }
+ .block {
+    height: 500px;
+    width: 1000px;
+    display: grid;
+    grid-template: 70px 110px 70px / repeat(4, 2fr);
+    margin-top: -211px;
+    border: 1px solid red;
+    
+ }
+ .leftblock {
+    background-color: green;
+    height: 500px;
+    width: 333.3px;
+    display: grid;
+    grid-template: 70px 110px 70px / repeat(4, 2fr);
+    text-align:center;
+    
+ }
+ .centrblock {
+    background-color: aqua;
+    height: 500px;
+    width: 333.3px;
+    display: grid;
+    grid-template: 70px 110px 70px / repeat(5, 1fr);
+    text-align:center;
+      
+ }
+ .rightblock {
+    background-color: blue;
+    height: 500px;
+    width: 333.3px;
+    grid-template: 70px 110px 70px / repeat(4, 2fr);
+    display: grid;
+    text-align:center;
+    
+ }
+ .lfor {
+    background-color: orange;
+    grid-column-start: 1;
+    width: 250px;
+    height: 450px;
+    margin: 50px 0px 20px 40px;
+    position:static;
+    display: grid;
+    grid-template: 70px 110px 70px / repeat(2, 1fr);
+    
+ }
+ .aleft {
+    background-color: pink;
+    grid-column: 1;
+    width:125px;
+    height:350px ;
+    margin-top: 100px;
+ }
+ .bleft {
+    background-color: yellow;
+    grid-column: 2;
+    width:125px;
+    height:350px ;
+    margin-top: 100px;
+
+ }
+ .cred {
+    background-color: red;
+    width:111.1px;
+    height:450px ;
+    margin: 50px 0px 0px 0px;
+    grid-column: 1;
+ }
+ .ac {
+    background-color: yellow;
+    width:111.1px;
+    height:450px ;
+    grid-column-start: 2;
+    margin: 50px 0px 0px 0px;
+    display: grid;
+    
+ }
+ .cor {
+    background-color: orange;
+    width:111.1px;
+    height:450px ;
+    margin: 50px 0px 0px 0px;
+    grid-column: 3;
+ }
+ .ac1 {
+    background-color: orange;
+    grid-column: 1;
+    width:55.5px;
+    height:400px ;
+    grid-column-start: 1;
+    margin: 50px 0px 0px 0px;
+ }
+ .bc {
+    background-color: red;
+    grid-column: 1;
+    width:55.5px;
+    height:100px ;
+    grid-column-start: 2;
+    margin: 350px 0px 0px 0px;
+ }
+ .raqua {
+    background-color: aqua;
+    grid-column: 1;
+    width:111.1px;
+    height:150px ;
+    grid-column-start: 1;
+    margin: 350px 0px 0px 0px;
+ }
+ .ryellow {
+    background-color: yellow;
+    grid-column: 2;
+    width:111.1px;
+    height:150px ;
+    grid-column-start: 2;
+    margin: 250px 0px 0px 0px;
+ }
+ .rorange {
+    background-color: orange;
+    grid-column: 3;
+    width:111.1px;
+    height:150px ;
+    grid-column-start: 3;
+    margin: 150px 0px 0px 0px;
+    grid-template: 70px 110px 70px / repeat(2, 1fr);
+    display: grid;
+    
+ }
+.rb1 {
+    background-color: black;
+    width: 50px;
+    height: 30px;
+    grid-column: 2;
+    margin: 100px 0px 0px -30.5px;
+    
+}
+ .rb2 {
+    background-color: black;
+    width: 50px;
+    height: 30px;
+    grid-column: 3;
+    margin: 40px 0px 0px 0px;
+ }
