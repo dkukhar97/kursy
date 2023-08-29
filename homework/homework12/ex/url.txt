@@ -1,0 +1,9 @@
+https://www.emmet.io/ - Emmet — набор плагинов для текстовых редакторов, которые в некоторой степени ускоряют написание кода HTML, XML, XSL, а также кода на некоторых других языках.
+
+https://www.w3schools.com/ - W3Schools — это бесплатный образовательный веб-сайт для обучения кодированию онлайн.
+
+https://validator.w3.org/nu/#textarea - варіатор коду (перевірка)
+
+https://css.in.ua/
+
+https://getbootstrap.com/
